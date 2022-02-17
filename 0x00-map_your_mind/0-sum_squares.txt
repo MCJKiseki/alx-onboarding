@@ -1,6 +1,6 @@
 Create a function named square. 
 Initialize sum is zero. 
 Create a for loop to iterate till the end of the loop.
-We are giving the num value as 6. 
-So it will iterate till it reaches 6. 
-Once it reached 6. It will come out of the loop and execute the result.
+We are giving the num value as 4. 
+So it will iterate till it reaches 4. 
+Once it reached 4. It will come out of the loop and execute the result.
